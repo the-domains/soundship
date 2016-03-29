@@ -1,4 +1,8 @@
-layout_spectrum: 0.463153
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,32 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.2178172
   brandStrength: 0.4610587246716022
   lightness: 0.8484142
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FFFFFF'
+    - '#010001'
+    - '#8A8A8F'
+    - '#E07F4B'
+    - '#C6C5C7'
   rhythmicContrast: 0.8554105
 typography_spectrum: 0.9506532296072692
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.463153
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: SoundShip
