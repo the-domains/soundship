@@ -1,12 +1,7 @@
+name: SoundShip
 favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.463153
+typography_spectrum: 0.9506532296072692
 collections:
   - index:
       path: /
@@ -19,22 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
-color:
-  saturation: 0.2178172
-  brandStrength: 0.4610587246716022
-  lightness: 0.8484142
-  brandColors:
-    - '#FFFFFF'
-    - '#010001'
-    - '#8A8A8F'
-    - '#E07F4B'
-    - '#C6C5C7'
-  rhythmicContrast: 0.8554105
-typography_spectrum: 0.9506532296072692
-layout_spectrum: 0.463153
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-name: SoundShip
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000000'
+    - '#ffffdd'
+    - '#ed2b2c'
+    - '#e28c57'
+    - '#22545f'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
+purpose: []
