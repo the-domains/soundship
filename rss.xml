@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SoundShip]]></title>
         <description><![CDATA[SoundShip]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/soundship/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 16:06:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 16:15:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/soundship/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Projects]]></title>
             <description><![CDATA[<article><h1>Projects</h1><p>These are the projects that I'm working on.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e53dad9a-0677-4bc6-9760-22f8e3ba5270.jpg"></article>]]></description>
-            <link>undefinedprojects/index.html</link>
+            <link>https://thegrid.ai/soundship/projects/index.html</link>
             <guid isPermaLink="false">5531d612-7b78-4152-a0b8-a30c67415583</guid>
-            <pubDate>Tue, 29 Mar 2016 16:06:39 GMT</pubDate>
+            <pubDate>Tue, 29 Mar 2016 16:15:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
